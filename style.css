@@ -98,6 +98,7 @@ main {
     max-height: 20vh;
     margin: 2rem auto 2rem auto;
     overflow: scroll;
+    background-color: white;
     border: 1px solid var(--black);
 }    
 
